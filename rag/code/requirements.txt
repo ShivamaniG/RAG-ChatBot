@@ -1,0 +1,10 @@
+chromadb
+huggingface_hub
+langchain
+llama_index
+streamlit
+streamlit_extras
+llama-index-vector-stores-chroma
+pysqlite3-binary
+langchain-community
+sentence-transformers
